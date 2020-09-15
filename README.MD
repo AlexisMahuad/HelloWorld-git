@@ -17,7 +17,7 @@ Underline 2
 - formato __bold o strong__ de la segunda forma.
 - formato ~~tachado~~.
 
-# Listas
+# Listas:
 
 1. Esto es un item de lista ordenada.
 2. Esto es un item de lista ordenada.
@@ -29,17 +29,25 @@ Underline 2
 - [Esto es un link en Markdown](https://www.google.com)
 - [Esto es un link al index](index.html)
 
-# Imagenes
+# Imagenes:
 ![Logo Github](Logo-Github.png)
 
-# Code Snippets
+# Code Snippets:
 Codigo JS
 ```Javascript
 var hola = "hola";
 return hola;
 ```
-# Tablas
+# Tablas:
 | Nombre | Apellido | Documento |
 | ------ | -------- | --------- |
 | Maxi   | Burgos   | 2348752   |
-|Tomas   | Tompson  | 1287523   |
+| Tomas  | Tompson  | 1287523   |
+
+# Citas:
+Esto es un texto referente a una cita que pondremos debajo:
+> Esto es una cita.
+
+Esto es otro texto 
+
+>Esto es otra cita. 
