@@ -28,3 +28,13 @@ Underline 2
 - <a href="https://www.google.com">Esto es un link HTML</a>
 - [Esto es un link en Markdown](https://www.google.com)
 - [Esto es un link al index](index.html)
+
+# Imagenes
+![Logo Github](Logo-Github.png)
+
+# Code Snippets
+Codigo JS
+```Javascript
+var hola = "hola";
+return hola;
+```
