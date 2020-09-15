@@ -38,3 +38,8 @@ Codigo JS
 var hola = "hola";
 return hola;
 ```
+# Tablas
+| Nombre | Apellido | Documento |
+| ------ | -------- | --------- |
+| Maxi   | Burgos   | 2348752   |
+|Tomas   | Tompson  | 1287523   |
